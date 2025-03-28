@@ -2,6 +2,7 @@
 # https://docs.web.auto/user-manuals/evaluator/configuration/reference/introduction
 
 version: 2
+
 artifacts:
   - name: main
     metadata:
